@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "bruno-santos",
-    "slug": "bruno-santos",
+    "name": "app-financas",
+    "slug": "app-financas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
